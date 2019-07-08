@@ -32,3 +32,4 @@
 /home/xlj007/dotnetcore/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.2/AspNetCoreTodo.pdb
 /home/xlj007/dotnetcore/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.2/AspNetCoreTodo.csproj.CopyComplete
 /home/xlj007/dotnetcore/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.2/Razor/Views/Todo/Index.g.cshtml.cs
+/home/xlj007/dotnetcore/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.2/Razor/Views/Todo/AddItemPartial.g.cshtml.cs
